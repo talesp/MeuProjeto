@@ -1,0 +1,3 @@
+[submodule "Submodules/CRPTheme"]
+	path = Submodules/CRPTheme
+	url = https://talesp@bitbucket.org/talesp/crptheme.git
